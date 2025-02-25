@@ -1,2 +1,1 @@
-apikey|domain
-apikey|domain
+GAIA-LALALA|https://nick.gaia.domains/v1/chat/completions
