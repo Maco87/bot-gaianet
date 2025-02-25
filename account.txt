@@ -1,2 +1,1 @@
-apikey|domain
-apikey|domain
+GAIA crownJL|https://nick.gaia.domains/v1/chat/completions
